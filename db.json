@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "some title 20",
+      "description": "some description",
+      "price": 1000,
+      "image": "https://softech.kg/image/cache/46148fda07614998a56cbb35a0ca760c.png",
+      "id": 1
+    },
+    {
+      "title": "phone",
+      "description": "gold",
+      "price": 15000,
+      "image": "hgfj",
+      "id": 3
+    },
+    {
+      "title": "ftrsdfhjg",
+      "description": "w54teryt",
+      "price": 12456,
+      "image": "rsgdfhdg",
+      "id": 4
+    },
+    {
+      "title": "dtrhyfgjukh",
+      "description": "fgdhj",
+      "price": 6578,
+      "image": "gfh",
+      "id": 5
+    },
+    {
+      "title": "dgrfhg",
+      "description": "dghjfgk",
+      "price": 53467,
+      "image": "hfgj",
+      "id": 6
+    }
+  ]
+}
