@@ -4,7 +4,6 @@ import { Box, Container, Pagination, Slider, TextField } from "@mui/material";
 import { productsContext } from "../../contexts/productsContext";
 
 import ProductCard from "../ProductCard/ProductCard";
-import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 
 import { useSearchParams } from "react-router-dom";
 
